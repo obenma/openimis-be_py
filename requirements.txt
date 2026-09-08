@@ -27,7 +27,7 @@ pyodbc
 python-dateutil
 python-dotenv
 
-reportbro-lib~=2.1.1
+reportbro-lib~=3.12.2
 reportbro-fpdf~=1.7.11
 rules
 waitress
@@ -64,3 +64,4 @@ faker
 django-csp
 sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
 debugpy
+networkx
